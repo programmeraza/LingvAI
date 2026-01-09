@@ -22,21 +22,21 @@ const reviews = [
   },
   {
     img: "./shabnam.png",
-    name: "Irina Petrova",
-    location: "Tashkent",
-    text: "Scoring is honest and objective. No sugarcoating. That alone saved me time and made my prep more efficient.",
-  },
-  {
-    img: "./mahmud.png",
     name: "Kamilla Nurmatova",
     location: "Kazan",
     text: "I always struggled with Speaking timing. LingvAI helped me practice the structure and answer faster with confidence.",
   },
   {
-    img: "./jannatul.png",
+    img: "./mahmud.png",
     name: "Nurlan Kabylov",
     location: "Bishkek",
     text: "After two sessions I finally understood what was stopping me from getting Band 7. Worth every minute.",
+  },
+  {
+    img: "./jannatul.png",
+    name: "Irina Petrova",
+    location: "Tashkent",
+    text: "Scoring is honest and objective. No sugarcoating. That alone saved me time and made my prep more efficient.",
   },
 ];
 
