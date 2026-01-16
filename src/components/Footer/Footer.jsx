@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="footer__top">
               <div className="footer__logo-flex">
                 <img src="./favicon.svg" alt="" />
-                <p>Your Al-powered IELTS simulator for measurable progress.</p>
+                <p>Your AI-powered IELTS simulator for measurable progress.</p>
               </div>
               <div className="footer__email-flex">
                 <h3>Stay Updated</h3>
@@ -48,7 +48,7 @@ const Footer = () => {
                   <img src="./in.svg" alt="" />
                 </div>
                 <p>
-                  © 2026 LingvAl. All rights reserved.
+                  © 2026 LingvAI. All rights reserved.
                   Developed by ISLMV IT-Solutions
                   Group.
                 </p>
