@@ -78,8 +78,8 @@ const Explore = () => {
           <div className="expo__content">
             <h1>Train. Score. Improve. <br /> From Practice to Performance.</h1>
             <p>
-              Comprehensive healthcare management designed with simplicity and
-              security in mind.
+              Comprehensive English language testing software designed with simplicity and
+              precision.
             </p>
           </div>
 
